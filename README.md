@@ -1,4 +1,11 @@
-### Hi there 👋
+# console.log("Hello World! 🤙")
+
+
+## Welcome to my github 🧑‍💻.
+
+
+My name is Fredy Ramírez and I'm a student of Systems Engineering at [University San Carlos (USAC)](https://www.usac.edu.gt/).
+
 
 <!--
 **fraced97/fraced97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
